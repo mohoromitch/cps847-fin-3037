@@ -14,9 +14,6 @@ import { HourlyComponent } from './hourly/hourly.component';
 @NgModule({
   declarations: [
     AppComponent,
-    OurCustomersComponent,
-    AboutUsComponent,
-    OurServicesComponent,
     WeatherComponent,
     HomeComponent,
     HourlyComponent,

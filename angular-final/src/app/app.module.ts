@@ -5,9 +5,6 @@ import { DatePipe } from '@angular/common';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
-import { OurCustomersComponent } from './our-customers/our-customers.component';
-import { AboutUsComponent } from './about-us/about-us.component';
-import { OurServicesComponent } from './our-services/our-services.component';
 import { AppRoutingModule } from './/app-routing.module';
 
 import { WeatherService } from './weather.service';

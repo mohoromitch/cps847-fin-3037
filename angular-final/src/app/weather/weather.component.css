@@ -1,0 +1,8 @@
+.weather{
+  text-align: center;
+  border-width:1px;
+  border-style: solid;
+  border-color: #0099ff;
+  margin-left: 50px;
+  margin-right: 50px;
+}
